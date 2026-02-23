@@ -11,8 +11,8 @@ This repository hosts our official website:
 👉 [Visit Site](https://thesamkh.github.io)
 
 ## 📞 Contact
-- Email: info@samaviation.com  
-- Phone: +374 00 000000  
+- Email:samankhodadadi.k@gmail.com  
+- Phone: +374 93400273
 - Location: Yerevan, Armenia  
 
 ---
